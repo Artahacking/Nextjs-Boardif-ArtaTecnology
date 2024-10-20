@@ -30,7 +30,7 @@ export const Footer = () => {
                 </div>
             </div>
             <div className="mt-2 text-center text-xs md:text-sm">
-                &copy; {new Date().getFullYear()} Your Company. All rights reserved.
+                &copy; {new Date().getFullYear()} FikryLab & Arta Technology. All rights reserved.
             </div>
         </div>
     );
