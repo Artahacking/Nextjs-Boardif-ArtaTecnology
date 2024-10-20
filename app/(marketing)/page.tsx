@@ -46,7 +46,7 @@ const MarketingPage = () => {
                 "text-sm md:text-xl text-neutral-600 mt-4 max-w-xs md:max-w-2xl text-center mx-auto",
                 textFont.className,
             )}>
-                Berkolaborasi, mengelola proyek, dan mencapai puncak produktivitas baru, dari kantor rumah, cara tim Anda bekerja adalah unik - capai semuanya di Task Managment Community.
+                Berkolaborasi dengan mudah, mengelola proyek tugas akhir , dan meningkatkan produktivitas dalam pengumpulan tugas akhir.  membantu anda dalam penyusunan skripsi mahasiswa Teknik Informatika dapat dilakukan secara online Dengan Boarify raih tujuan akademik Anda dengan lebih terencana dan terorganisir. Dan cepat tamat 
             </div>
             <Button className="mt-6 bg-gradient-to-r from-green-400 to-blue-500 hover:from-green-500 hover:to-blue-600 text-white shadow-lg transform transition-transform duration-300 hover:scale-105" size="lg" asChild>
                 <Link href="/sign-up">
